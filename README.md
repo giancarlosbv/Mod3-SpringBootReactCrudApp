@@ -1,2 +1,2 @@
 # Mod3-SpringBootReactCrudApp
-Todo List
+This project is a culmination of all the things we learned during Mod3. Through the use of starter code provided by instructors, I was able to setup my backend with Java Springboot. With Springboot and a database created on MySql I made a simple todo-list that showcases the CRUD functions. To display my app, I used react. The starter code is setup with class components but because I am more comfortable with functional components and hooks, I took this opportunity to dive into the differences of the two and attempt to convert from class to functional. Through the use of multiple hooks such as useState, useEffect, useRef, and useHistory, I was able to create a react app that fully utilizes functional components and hooks.
